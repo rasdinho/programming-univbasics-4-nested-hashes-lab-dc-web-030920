@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-programmer_hash[:known_for][:language]
+programmer_hash[]
 end
 
 def alan_kay_is_known_for
